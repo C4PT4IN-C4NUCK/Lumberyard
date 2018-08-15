@@ -1,0 +1,539 @@
+<ObjectStream version="3">
+	<Class name="UserSettingsContainer" version="3" type="{42C087CF-4F19-4DAF-B2B1-2927D94AA295}">
+		<Class name="AZStd::unordered_map" field="Map" type="{79C4F23B-19F1-58AE-9C3A-8CDFD2D00AB0}">
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3797200989" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1602912115" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="905741200" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="980043187" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="745781122" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1584307236" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1584307236" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3360779153" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="710040699" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3471836546" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="4145573364" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3795230251" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="781565183" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1447233254" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1462824701" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3422908498" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1372824693" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="395546913" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1125673583" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3424380784" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2651603571" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="114993281" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="986043072" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1447233254" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="1772267436" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="3026797935" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="117683490" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3831466074" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="1280829544" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="AZ::StreamerComponentUserSettings" field="element" type="{DBE98B4C-766C-453E-84AD-AF5425696591}">
+						<Class name="bool" field="enableDrilling" value="true" type="{A0CA880C-AFE4-43CB-926C-59AC48496112}"/>
+						<Class name="bool" field="drillingTrackStreams" value="false" type="{A0CA880C-AFE4-43CB-926C-59AC48496112}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="2510839492" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="59022334" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="2440063151" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="1944221566" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="3237612388" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="4164274036" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3809928303" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1637921034" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2871906661" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3925780913" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2835205861" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2017597563" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1695723570" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3937751860" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="1724466898" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1254424856" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3933290763" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3007658805" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="3422477834" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2008187309" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="2136808686" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3422477834" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="802531274" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="474289150" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="947204898" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="758367241" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3788528620" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2508973742" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2008187309" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1565252567" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2040587497" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="99175570" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1125333106" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1580387767" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1502866785" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1680402748" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2310708555" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3983567795" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1125333106" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1580387767" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2042458222" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1502866785" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="4013601830" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="716050702" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1680402748" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1495404074" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1718296457" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="176196609" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2310708555" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="80633638" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2114442954" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3497239941" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="4022443788" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2864327785" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="418434419" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="998008239" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="998723205" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3983567795" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="602638278" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1720726691" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="4227490145" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="552665890" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="3747841056" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="3747841056" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="625088326" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1075313201" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="1558441791" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="706418469" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1602912115" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="2824089586" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="2568309389" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3936599151" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3175424524" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1392550520" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="583269640" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3451947400" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="2037879127" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="2037879127" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="78949422" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="1317940263" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="3782163030" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="2522332424" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="486558763" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2382170980" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1113191345" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1568124180" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="298571788" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="4026479678" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2853316202" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1788147839" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3355711655" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="253843116" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3782163030" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="4248245476" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3322001609" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="QWidgetSavedState" field="element" version="1" type="{ED8EEF58-C577-4FCC-AE84-66FF63A1BDEB}">
+						<Class name="ByteStream" field="m_windowGeometry" value="01D9D0CB000200000000056A000001E3000008050000039B00000572000001E3000007FD0000039300000000000000000D70" type="{ADFD596B-7177-5519-9752-BC418FE42963}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="2031325437" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="3626513111" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="4021970461" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1055378216" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="3626513111" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="4021970461" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1055378216" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="10799886" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="2008187309" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1254424856" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="4024905338" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="439807918" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="2201992724" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="1731584531" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1254424856" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="650584048" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3378500753" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="1040035254" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="QWidgetSavedState" field="element" version="1" type="{ED8EEF58-C577-4FCC-AE84-66FF63A1BDEB}">
+						<Class name="ByteStream" field="m_windowGeometry" value="01D9D0CB000200000000056A000001E3000008050000039B00000572000001E3000007FD0000039300000000000000000D70" type="{ADFD596B-7177-5519-9752-BC418FE42963}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="2809869614" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="1968756325" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="2663297705" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3824928854" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="653999308" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="TargetManagementSettings" field="element" type="{AB1B14BB-C0E3-484A-B498-98F44A58C161}">
+						<Class name="AZStd::string" field="Hub" value="SEA-9903526906" type="{03AAAB3F-5C47-5A66-9EBC-D5FA4DB353C9}"/>
+						<Class name="int" field="HubPort" value="5172" type="{72039442-EB38-4D42-A1AD-CB68F7E0EEF6}"/>
+						<Class name="AZStd::string" field="Name" value="ProjectConfigurator" type="{03AAAB3F-5C47-5A66-9EBC-D5FA4DB353C9}"/>
+						<Class name="int" field="LocalPort" value="0" type="{72039442-EB38-4D42-A1AD-CB68F7E0EEF6}"/>
+						<Class name="int" field="ReconnectIntervalMS" value="1000" type="{72039442-EB38-4D42-A1AD-CB68F7E0EEF6}"/>
+						<Class name="TargetInfo" field="LastConnectedTarget" version="2" type="{4D166C31-D7F4-4D49-B897-16365B8B0716}">
+							<Class name="AZStd::string" field="m_displayName" value="" type="{03AAAB3F-5C47-5A66-9EBC-D5FA4DB353C9}"/>
+							<Class name="unsigned int" field="m_persistentId" value="0" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="m_flags" value="0" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="3124645340" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}">
+							<Class name="unsigned int" field="element" value="1602912115" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="3927766795" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+							<Class name="unsigned int" field="element" value="1177347317" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+						</Class>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="288605201" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+			<Class name="AZStd::pair" field="element" type="{8B27CED2-6C1F-5A72-9D09-97458A077D47}">
+				<Class name="unsigned int" field="value1" value="287974048" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
+				<Class name="AZStd::intrusive_ptr" field="value2" type="{21609605-3020-5D04-A48B-895277FD0093}">
+					<Class name="ReflectedPropertyEditorState" field="element" version="3" type="{A229B615-622B-4C0B-A17C-A1F5C3144D6E}">
+						<Class name="AZStd::unordered_set" field="m_expandedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+						<Class name="AZStd::unordered_set" field="m_savedElements" type="{171CA2D3-AAA0-5BA6-B0CF-AEEA880394DC}"/>
+					</Class>
+				</Class>
+			</Class>
+		</Class>
+	</Class>
+</ObjectStream>
+

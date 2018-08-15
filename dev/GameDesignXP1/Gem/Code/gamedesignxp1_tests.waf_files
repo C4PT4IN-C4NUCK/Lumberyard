@@ -1,0 +1,7 @@
+{
+    "auto": {
+        "Tests": [
+            "Tests/GameDesignXP1Test.cpp"
+        ]
+    }
+}

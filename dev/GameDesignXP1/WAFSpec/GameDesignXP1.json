@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for GameDesignXP1",
+    "visual_studio_name": "GameDesignXP1",
+    "comment" : "",
+    "game_projects" : "GameDesignXP1",
+
+    "modules" : [
+    ]
+}

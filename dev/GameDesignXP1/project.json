@@ -1,0 +1,42 @@
+{
+    "project_name": "GameDesignXP1",
+    "product_name": "GameDesignXP1",
+    "executable_name": "GameDesignXP1Launcher",
+    "modules" : [],
+    "project_id": "{DDD9F160-1C16-49A6-997D-D3C95EA3594C}",
+	
+    "durango_settings" : {
+        "app_id"            : "GameDesignXP1",
+        "entry_point"       : "GameDesignXP1.app",
+        "package_name"      : "GameDesignXP1",
+        "display_name"      : "GameDesignXP1",
+        "publisher"         : "Your Publisher",
+        "description"       : "Your game's description.",
+        "foreground_text"   : "light",
+        "background_color"  : "#6495ED",
+        "version"           : "1.0.0.0",
+        "titleid"           : "00E7F92C",
+        "scid"              : "65b20100-55fe-49dc-82b9-020000e7f92c",
+        "appxmanifest"      : "../Resources/AppxManifest.xml",
+        "logo"              : "../Resources/DurangoLogo.png",
+        "small_logo"        : "../Resources/DurangoSmallLogo.png",
+        "splash_screen"     : "../Resources/DurangoSplashScreen.png",
+        "store_logo"        : "../Resources/DurangoStoreLogo.png",
+        "wide_logo"         : "../Resources/DurangoWideLogo.png"
+    },
+
+    "android_settings" : {
+        "package_name" : "com.lumberyard.yourgame",
+        "version_number" : 1,
+        "version_name" : "1.0.0.0",
+        "orientation" : "landscape"
+    },
+
+    "orbis_settings": {
+        "data_folder": "GameDesignXP1",
+        "nptitle_dat": "",
+        "param_sfo": "../Resources/param.sfo",
+        "trophy_trp": "../Resources/trophies.trp"
+    }
+
+}

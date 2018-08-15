@@ -1,0 +1,18 @@
+{
+    "none": {
+        "Source": [
+            "Source/GameDesignXP1_precompiled.cpp",
+            "Source/GameDesignXP1_precompiled.h"
+        ]
+    },
+    "auto": {
+        "Include": [
+            "Include/GameDesignXP1/GameDesignXP1Bus.h"
+        ],
+        "Source": [
+            "Source/GameDesignXP1Module.cpp",
+            "Source/GameDesignXP1SystemComponent.cpp",
+            "Source/GameDesignXP1SystemComponent.h"
+        ]
+    }
+}
