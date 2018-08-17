@@ -14,7 +14,7 @@ namespace GameDesignXP1
         {
             serialize->Class<GameDesignXP1SystemComponent, AZ::Component>()
                 ->Version(0)
-                ->SerializerForEmptyClass();
+                ->SerializeWithNoData();
 
             if (AZ::EditContext* ec = serialize->GetEditContext())
             {
