@@ -1,0 +1,6 @@
+<download name="GameDesignXP1Level" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="45754" md5="552e7694fa6622b8ede321013632c64a"/>
+ </files>
+</download>
